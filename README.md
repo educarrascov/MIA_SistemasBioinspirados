@@ -11,5 +11,5 @@ Profesor: Ricardo Contreras. Facultad de Ingeniería y Ciencias, UAI.
 ## Tareas Desarrolladas en el Curso:
 - [Tarea 1: Algoritmo Genético aplicado al Travel Sales Problem (TSP) - Shortest Path in Naval Enviroment (Notebook Jupyter).](https://github.com/educarrascov/MIA_SistemasBioinspirados/blob/main/Tarea%201/Tarea1.ipynb)
 - [Tarea 1: Algoritmo Genético aplicado al Travel Sales Problem (TSP) - Shortest Path in Naval Enviroment (Informe en PDF).](https://github.com/educarrascov/MIA_SistemasBioinspirados/blob/main/Tarea%201/Tarea%201%20-%20Sistemas%20Bioinspirados.pdf)
-- [Tarea 2: **Complemento**, Algoritmo Genético aplicado al Travel Sales Problem (TSP) - Shortest Path in Naval Enviroment (Informe en PDF).](https://github.com/educarrascov/MIA_SistemasBioinspirados/blob/main/Tarea%202/Tarea%202%20-%20Sistemas%20Bioinspirados%20(1).pdf)
-- [Tarea 2: **Complemento**, Algoritmo Genético aplicado al Travel Sales Problem (TSP) - Shortest Path in Naval Enviroment (Notebook Jupyter).](https://github.com/educarrascov/MIA_SistemasBioinspirados/blob/main/Tarea%202/Tarea2.ipynb)
+- [Tarea 2: **Complemento**, Algoritmo Genético aplicado al TSP - Shortest Path in Naval Enviroment (Informe en PDF).](https://github.com/educarrascov/MIA_SistemasBioinspirados/blob/main/Tarea%202/Tarea%202%20-%20Sistemas%20Bioinspirados%20(1).pdf)
+- [Tarea 2: **Complemento**, Algoritmo Genético aplicado al TSP - Shortest Path in Naval Enviroment (Notebook Jupyter).](https://github.com/educarrascov/MIA_SistemasBioinspirados/blob/main/Tarea%202/Tarea2.ipynb)
